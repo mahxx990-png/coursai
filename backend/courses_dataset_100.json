@@ -1,0 +1,1067 @@
+[
+  {
+    "course_id": "fcc-cert-qa",
+    "title": "Quality Assurance & Software Testing Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "DevOps",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABce0A4-7mK84n6oJj9bX2",
+    "description": "Official freeCodeCamp curriculum for Chai assertion library, Mocha unit testing, headless browser testing, and REST API integration tests.",
+    "certification_code": "FCC-QAS-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "Quality Assurance with Chai",
+      "Advanced Node & Express",
+      "Unit & Integration Testing",
+      "Metric-Imperial Converter Project",
+      "Issue Tracker API"
+    ]
+  },
+  {
+    "course_id": "fcc-cert-college-algebra",
+    "title": "College Algebra with Python Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAG5M3Wp07k-D1d51_C2T0nU",
+    "description": "Official freeCodeCamp curriculum for algebraic equations, graphing functions, linear systems, financial math, and SymPy symbolic Python.",
+    "certification_code": "FCC-ALG-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "Algebraic Operations",
+      "Graphing & Functions",
+      "Linear Systems & Matrices",
+      "Exponential & Logarithmic Functions",
+      "Computational Math Projects"
+    ]
+  },
+  {
+    "course_id": "fcc-cert-machine-learning",
+    "title": "Machine Learning with Python Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "Artificial Intelligence",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAB5VzBvM4sB9c0N3Q2Zp2m5",
+    "description": "Official freeCodeCamp curriculum for TensorFlow, Scikit-learn, Neural Networks, Convolutional Vision Nets, and Natural Language Processing.",
+    "certification_code": "FCC-MLP-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "TensorFlow Core Principles",
+      "Linear Regression & Classification",
+      "Deep Neural Networks",
+      "CNN Image Classification",
+      "RNN Text Generation"
+    ]
+  },
+  {
+    "course_id": "fcc-cert-info-security",
+    "title": "Information Security & Cyber Security Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "Cybersecurity",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABcB3LgZ6oT40W0S6mS2C8",
+    "description": "Official freeCodeCamp curriculum for Helmet.js security headers, web application penetration testing, cryptographic hashing, and Python security tools.",
+    "certification_code": "FCC-SEC-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "Information Security with HelmetJS",
+      "Python Cyber Security Tools",
+      "Port Scanner",
+      "SHA-1 Password Cracker",
+      "Secure Web Apps"
+    ]
+  },
+  {
+    "course_id": "fcc-cert-data-analysis-py",
+    "title": "Data Analysis with Python Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "Data Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAB4-R6a1cvrX2E3cM-Mv0vQ",
+    "description": "Official freeCodeCamp curriculum for Numpy numerical arrays, Pandas dataframes, Matplotlib charts, Seaborn statistical plots, and data cleaning.",
+    "certification_code": "FCC-DAP-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "Data Analysis Intro",
+      "Numpy Numerical Computing",
+      "Pandas DataFrames",
+      "Data Cleaning",
+      "Matplotlib & Seaborn"
+    ]
+  },
+  {
+    "course_id": "fcc-cert-python-computing",
+    "title": "Scientific Computing with Python Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAG5M3Wp07k-D1d51_C2T0nS",
+    "description": "Official freeCodeCamp curriculum for Python syntax, object-oriented design, computational mathematics, and algorithmic problem solving.",
+    "certification_code": "FCC-PYC-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "Python Basics",
+      "Lists, Dictionaries & Tuples",
+      "Loops & Control Flow",
+      "Classes & OOP",
+      "Algorithm Projects"
+    ]
+  },
+  {
+    "course_id": "fcc-cert-backend-apis",
+    "title": "Back End Development and APIs Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "Backend Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABcB3LgZ6oT40W0S6mS2C6",
+    "description": "Official freeCodeCamp curriculum for Node.js runtime, Express.js server architecture, MongoDB document databases, and Mongoose ORM.",
+    "certification_code": "FCC-BEA-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "Managing Packages with npm",
+      "Basic Node and Express",
+      "MongoDB and Mongoose",
+      "Timestamp Microservice API",
+      "URL Shortener Microservice"
+    ]
+  },
+  {
+    "course_id": "fcc-cert-relational-db",
+    "title": "Relational Database & SQL Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "Databases",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAG5M3Wp07k-D1d51_C2T0nT",
+    "description": "Official freeCodeCamp curriculum for Linux Bash scripting, PostgreSQL database design, SQL queries, and Git CLI.",
+    "certification_code": "FCC-RDB-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "Celestial Bodies Database",
+      "Bash Scripting",
+      "PostgreSQL Queries",
+      "Git Version Control",
+      "Salon Appointment Scheduler"
+    ]
+  },
+  {
+    "course_id": "fcc-cert-data-visualization",
+    "title": "Data Visualization Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "Data Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAB4-R6a1cvrX2E3cM-Mv0vQ",
+    "description": "Official freeCodeCamp curriculum for D3.js data charts, JSON APIs, AJAX data fetching, and SVG graph rendering.",
+    "certification_code": "FCC-DV-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "Data Visualization with D3",
+      "JSON APIs and AJAX",
+      "Bar Charts & Scatterplots",
+      "Choropleth Maps",
+      "Heatmaps"
+    ]
+  },
+  {
+    "course_id": "fcc-cert-frontend-libraries",
+    "title": "Front End Development Libraries Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABce0A4-7mK84n6oJj9bX1",
+    "description": "Official freeCodeCamp curriculum for Bootstrap, SASS, React.js, Redux, and modern UI frameworks.",
+    "certification_code": "FCC-FED-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "Bootstrap 5",
+      "SASS Preprocessor",
+      "React Component Architecture",
+      "Redux State Management",
+      "React Redux Integration"
+    ]
+  },
+  {
+    "course_id": "fcc-cert-javascript",
+    "title": "JavaScript Algorithms and Data Structures Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABcB3LgZ6oT40W0S6mS2C5",
+    "description": "Official freeCodeCamp curriculum for JavaScript fundamentals, ES6+, OOP, Functional Programming, and Algorithmic Data Structures.",
+    "certification_code": "FCC-JS-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "Basic JavaScript",
+      "ES6 Modern Features",
+      "Regular Expressions",
+      "Debugging",
+      "Basic Data Structures",
+      "Basic Algorithm Scripting",
+      "Object Oriented Programming",
+      "Functional Programming"
+    ]
+  },
+  {
+    "course_id": "fcc-cert-responsive-web",
+    "title": "Responsive Web Design Certification",
+    "instructor": "freeCodeCamp.org",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABcB3LgZ6oT40W0S6mS2C7",
+    "description": "Official freeCodeCamp curriculum for HTML5, CSS3, Flexbox, CSS Grid, and responsive web design principles.",
+    "certification_code": "FCC-RWD-2026",
+    "total_hours": "300 Hours",
+    "modules": [
+      "Basic HTML and HTML5",
+      "Basic CSS",
+      "Applied Visual Design",
+      "Applied Accessibility",
+      "Responsive Web Design Principles",
+      "CSS Flexbox",
+      "CSS Grid"
+    ]
+  },
+  {
+    "course_id": "fcc-downloaded-python",
+    "title": "Scientific Computing with Python (Official freeCodeCamp)",
+    "instructor": "freeCodeCamp.org",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAG5M3Wp07k-D1d51_C2T0nS",
+    "description": "Downloaded official curriculum for Python fundamentals, variables, loops, functions, and algorithmic computing."
+  },
+  {
+    "course_id": "fcc-downloaded-webdev",
+    "title": "Responsive Web Design (Official freeCodeCamp)",
+    "instructor": "freeCodeCamp.org",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABcB3LgZ6oT40W0S6mS2C7",
+    "description": "Downloaded official curriculum for HTML5 elements, CSS styling, Flexbox, and Grid layouts."
+  },
+  {
+    "course_id": "fcc-downloaded-javascript",
+    "title": "JavaScript Data Structures & Algorithms",
+    "instructor": "freeCodeCamp.org",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABcB3LgZ6oT40W0S6mS2C5",
+    "description": "Downloaded official curriculum for Object Oriented JavaScript, ES6 features, and algorithm challenges."
+  },
+  {
+    "course_id": "fcc-downloaded-data-analysis",
+    "title": "Data Analysis with Python (Official freeCodeCamp)",
+    "instructor": "freeCodeCamp.org",
+    "category": "Data Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAB4-R6a1cvrX2E3cM-Mv0vQ",
+    "description": "Downloaded official curriculum for Pandas, Numpy, data cleaning, and statistical visualizations."
+  },
+  {
+    "course_id": "fcc-downloaded-machine-learning",
+    "title": "Machine Learning with Python (Official freeCodeCamp)",
+    "instructor": "freeCodeCamp.org",
+    "category": "Artificial Intelligence",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAB5VzBvM4sB9c0N3Q2Zp2m5",
+    "description": "Downloaded official curriculum for TensorFlow, neural networks, computer vision, and NLP."
+  },
+  {
+    "course_id": "python-basics-corey",
+    "title": "Python Programming Fundamentals",
+    "instructor": "Corey Schafer",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7"
+  },
+  {
+    "course_id": "html-elzero",
+    "title": "HTML5 & Web Fundamentals",
+    "instructor": "Elzero Web School",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLDoPjvoZm5OqMel7N7hLw4d2J7Uq7"
+  },
+  {
+    "course_id": "css-elzero",
+    "title": "Mastering CSS3",
+    "instructor": "Elzero Web School",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLDoPjvoZm5O92L2-H8v2D5yT_b_5_mR_"
+  },
+  {
+    "course_id": "js-elzero",
+    "title": "JavaScript BootCamp 2021",
+    "instructor": "Elzero Web School",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLDoPjvoZm5O9xj_-Bvj2-B_s-W0xW-V_0"
+  },
+  {
+    "course_id": "python-elzero",
+    "title": "Python Programming Course",
+    "instructor": "Elzero Web School",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLDoPjvoZm5Oq5wVwK7L3A2K1G2914-72L"
+  },
+  {
+    "course_id": "cpp-elzero",
+    "title": "C++ Programming Mastery",
+    "instructor": "Elzero Web School",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLDoPjvoZm5OqMhA-u4n34n2sQ2G1Wv80X"
+  },
+  {
+    "course_id": "react-tarmeez",
+    "title": "React JS Complete Course in Arabic",
+    "instructor": "Tarmeez Academy",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWcLw1D8Q3N2N5S4lU3D0N9L-u0g2n9w8"
+  },
+  {
+    "course_id": "flutter-tarmeez",
+    "title": "Flutter & Dart Mobile App Development",
+    "instructor": "Tarmeez Academy",
+    "category": "Mobile Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWcLw1D8Q3N0d8K90v7Z7a-k6c7a4m0v"
+  },
+  {
+    "course_id": "node-tarmeez",
+    "title": "Node.js & Express Backend Development",
+    "instructor": "Tarmeez Academy",
+    "category": "Backend Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWcLw1D8Q3N1vU0xXwXvS2hW-W2V0m6p3"
+  },
+  {
+    "course_id": "sql-tarmeez",
+    "title": "Relational Databases & SQL Fundamentals",
+    "instructor": "Tarmeez Academy",
+    "category": "Databases",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWcLw1D8Q3N3c_xQ1S5gA7a2m1m8p8W0"
+  },
+  {
+    "course_id": "react-mosh",
+    "title": "React JS Tutorial for Beginners",
+    "instructor": "Programming with Mosh",
+    "category": "Web Development",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBsnwQhtL2rEYuqq82"
+  },
+  {
+    "course_id": "python-mosh",
+    "title": "Python Tutorial for Beginners",
+    "instructor": "Programming with Mosh",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLTjRvDozrdlw5ectnBk5ceUQgFrt2Vtg_"
+  },
+  {
+    "course_id": "node-mosh",
+    "title": "Node.js Tutorial for Beginners",
+    "instructor": "Programming with Mosh",
+    "category": "Backend Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLTjRvDozrdlxce0A4-7mK84n6oJj9bX1"
+  },
+  {
+    "course_id": "sql-mosh",
+    "title": "SQL Tutorial for Beginners",
+    "instructor": "Programming with Mosh",
+    "category": "Databases",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLTjRvDozrdlw8cRpyLgo4hC3UoN0P-i-4"
+  },
+  {
+    "course_id": "csharp-mosh",
+    "title": "C# Basics for Beginners",
+    "instructor": "Programming with Mosh",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLTjRvDozrdlx3nBupL05Xq08t-C-QvV1y"
+  },
+  {
+    "course_id": "fcc-python-data",
+    "title": "Data Analysis with Python",
+    "instructor": "freeCodeCamp.org",
+    "category": "Data Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAB4-R6a1cvrX2E3cM-Mv0vQ"
+  },
+  {
+    "course_id": "fcc-machine-learning",
+    "title": "Machine Learning for Beginners",
+    "instructor": "freeCodeCamp.org",
+    "category": "Artificial Intelligence",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAG5M3Wp07k-D1d51_C2T0nS"
+  },
+  {
+    "course_id": "fcc-deep-learning",
+    "title": "Deep Learning & Neural Networks",
+    "instructor": "freeCodeCamp.org",
+    "category": "Artificial Intelligence",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIAB5VzBvM4sB9c0N3Q2Zp2m5"
+  },
+  {
+    "course_id": "fcc-web-dev",
+    "title": "Full Stack Web Development",
+    "instructor": "freeCodeCamp.org",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABcB3LgZ6oT40W0S6mS2C5"
+  },
+  {
+    "course_id": "fcc-cybersecurity",
+    "title": "Cyber Security Fundamentals",
+    "instructor": "freeCodeCamp.org",
+    "category": "Cybersecurity",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABcB3LgZ6oT40W0S6mS2C6"
+  },
+  {
+    "course_id": "traversy-tailwind",
+    "title": "Tailwind CSS Crash Course Series",
+    "instructor": "Traversy Media",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLillGF-RaqbypnU9gZ0n2uBnd7G2G7G2"
+  },
+  {
+    "course_id": "traversy-nextjs",
+    "title": "Next.js Framework Masterclass",
+    "instructor": "Traversy Media",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLillGF-RaqbypnU9gZ0n2uBnd7G2G7G3"
+  },
+  {
+    "course_id": "traversy-docker",
+    "title": "Docker & Containers Fundamentals",
+    "instructor": "Traversy Media",
+    "category": "DevOps",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLillGF-RaqbypnU9gZ0n2uBnd7G2G7G4"
+  },
+  {
+    "course_id": "traversy-git",
+    "title": "Git & GitHub Version Control",
+    "instructor": "Traversy Media",
+    "category": "DevOps",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLillGF-RaqbypnU9gZ0n2uBnd7G2G7G5"
+  },
+  {
+    "course_id": "netninja-react",
+    "title": "Full React Tutorial Series",
+    "instructor": "The Net Ninja",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d"
+  },
+  {
+    "course_id": "netninja-vue",
+    "title": "Vue 3 Mastery Course",
+    "instructor": "The Net Ninja",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vg3y_sVfHHMj"
+  },
+  {
+    "course_id": "netninja-flutter",
+    "title": "Flutter Tutorial for Beginners",
+    "instructor": "The Net Ninja",
+    "category": "Mobile Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PB"
+  },
+  {
+    "course_id": "netninja-typescript",
+    "title": "TypeScript Crash Course",
+    "instructor": "The Net Ninja",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI"
+  },
+  {
+    "course_id": "nana-docker",
+    "title": "Docker Tutorial for Beginners",
+    "instructor": "TechWorld with Nana",
+    "category": "DevOps",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLy7NrLxfJfI0tYnCst8c_K2u-W781jY5"
+  },
+  {
+    "course_id": "nana-kubernetes",
+    "title": "Kubernetes Course for Beginners",
+    "instructor": "TechWorld with Nana",
+    "category": "DevOps",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLy7NrLxfJfI15Ynnrqj0L2u81gWlB-76"
+  },
+  {
+    "course_id": "nana-cicd",
+    "title": "CI/CD Pipeline with Jenkins & Git",
+    "instructor": "TechWorld with Nana",
+    "category": "DevOps",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLy7NrLxfJfI1tU_v4aFw0N2iV55fC60"
+  },
+  {
+    "course_id": "mit-intro-cs",
+    "title": "MIT 6.0001 Introduction to Computer Science",
+    "instructor": "MIT OpenCourseWare",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdKodWRgZ57UHDRzp"
+  },
+  {
+    "course_id": "mit-algo",
+    "title": "MIT 6.006 Introduction to Algorithms",
+    "instructor": "MIT OpenCourseWare",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2"
+  },
+  {
+    "course_id": "mit-linear-algebra",
+    "title": "MIT 18.06 Linear Algebra",
+    "instructor": "MIT OpenCourseWare",
+    "category": "Mathematics",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCx5M5M"
+  },
+  {
+    "course_id": "cs50-harvard",
+    "title": "Harvard CS50: Introduction to Computer Science",
+    "instructor": "CS50 Harvard",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9Hz71_t1"
+  },
+  {
+    "course_id": "cs50-web",
+    "title": "Harvard CS50W: Web Programming with Python and JS",
+    "instructor": "CS50 Harvard",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5U"
+  },
+  {
+    "course_id": "networkchuck-ccna",
+    "title": "Free CCNA 200-301 Network Course",
+    "instructor": "NetworkChuck",
+    "category": "Networking",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLIhJ7A05T0u6W1Zq0T-b5kH-W"
+  },
+  {
+    "course_id": "networkchuck-python",
+    "title": "Python for Hackers & Network Engineers",
+    "instructor": "NetworkChuck",
+    "category": "Cybersecurity",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLIhJ7A05T0u6W1Zq0T-b5kH-X"
+  },
+  {
+    "course_id": "networkchuck-linux",
+    "title": "You Need to Learn Linux Right NOW!!",
+    "instructor": "NetworkChuck",
+    "category": "Operating Systems",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLIhJ7A05T0u6W1Zq0T-b5kH-Y"
+  },
+  {
+    "course_id": "fireship-100s",
+    "title": "100 Seconds of Code & Tech Concepts",
+    "instructor": "Fireship",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL0vfts4VzfNiI1BsIK5u7LpDevlPj5B0b"
+  },
+  {
+    "course_id": "fireship-fullstack",
+    "title": "Fullstack Web & Cloud Architecture",
+    "instructor": "Fireship",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL0vfts4VzfNj0-C1Zz-N-b0Z"
+  },
+  {
+    "course_id": "webdevsimplified-react",
+    "title": "Learn React in 30 Minutes & Projects",
+    "instructor": "Web Dev Simplified",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=WDS-React-Playlist"
+  },
+  {
+    "course_id": "webdevsimplified-js",
+    "title": "JavaScript DOM & Modern Features",
+    "instructor": "Web Dev Simplified",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=WDS-JS-Playlist"
+  },
+  {
+    "course_id": "statquest-ml",
+    "title": "Machine Learning Fundamentals Clearly Explained",
+    "instructor": "StatQuest with Josh Starmer",
+    "category": "Artificial Intelligence",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GtyJF"
+  },
+  {
+    "course_id": "statquest-stats",
+    "title": "Statistics & Data Science Core Concepts",
+    "instructor": "StatQuest with Josh Starmer",
+    "category": "Data Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9"
+  },
+  {
+    "course_id": "3blue1brown-linear",
+    "title": "Essence of Linear Algebra",
+    "instructor": "3Blue1Brown",
+    "category": "Mathematics",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"
+  },
+  {
+    "course_id": "3blue1brown-calculus",
+    "title": "Essence of Calculus",
+    "instructor": "3Blue1Brown",
+    "category": "Mathematics",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5We"
+  },
+  {
+    "course_id": "3blue1brown-neural",
+    "title": "Neural Networks & Deep Learning Math",
+    "instructor": "3Blue1Brown",
+    "category": "Artificial Intelligence",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi"
+  },
+  {
+    "course_id": "uniquecoderz-css",
+    "title": "Advanced CSS Grid & Flexbox Layouts",
+    "instructor": "Unique Coderz Academy",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLUfc4mj_mzpe_5ZkyZ"
+  },
+  {
+    "course_id": "uniquecoderz-js",
+    "title": "Object-Oriented JavaScript in Arabic",
+    "instructor": "Unique Coderz Academy",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLUfc4mj_mzpe_5ZkyZ2"
+  },
+  {
+    "course_id": "hassouna-csharp",
+    "title": "C# & WPF Application Development",
+    "instructor": "Hassouna Academy",
+    "category": "Software Engineering",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLSi1V1vY2v_hS"
+  },
+  {
+    "course_id": "hassouna-python",
+    "title": "Python Desktop & Web Apps in Arabic",
+    "instructor": "Hassouna Academy",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLSi1V1vY2v_hS2"
+  },
+  {
+    "course_id": "hassouna-postgres",
+    "title": "PostgreSQL & Database Design",
+    "instructor": "Hassouna Academy",
+    "category": "Databases",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLSi1V1vY2v_hS3"
+  },
+  {
+    "course_id": "abdelrahman-python",
+    "title": "Python from Scratch for Arab Students",
+    "instructor": "Abdelrahman Gamal",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLtFbQ_56v8jR-xX"
+  },
+  {
+    "course_id": "abdelrahman-django",
+    "title": "Django Framework Web Apps in Arabic",
+    "instructor": "Abdelrahman Gamal",
+    "category": "Backend Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLtFbQ_56v8jR-xY"
+  },
+  {
+    "course_id": "derekbanas-python",
+    "title": "Python in One Video & Advanced Series",
+    "instructor": "Derek Banas",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLGLfVvx_1weYD"
+  },
+  {
+    "course_id": "derekbanas-cpp",
+    "title": "C++ Programming Master Series",
+    "instructor": "Derek Banas",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLGLfVvx_1weYD2"
+  },
+  {
+    "course_id": "derekbanas-designpatterns",
+    "title": "Object Oriented Design Patterns",
+    "instructor": "Derek Banas",
+    "category": "Software Engineering",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLGLfVvx_1weYD3"
+  },
+  {
+    "course_id": "academind-react",
+    "title": "React.js Complete Guide & Next.js",
+    "instructor": "Academind (Maximilian)",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBn4_58Zk8"
+  },
+  {
+    "course_id": "academind-vue",
+    "title": "Vue.js Complete Guide",
+    "instructor": "Academind (Maximilian)",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBn4_58Zk9"
+  },
+  {
+    "course_id": "academind-flutter",
+    "title": "Flutter & Dart App Development",
+    "instructor": "Academind (Maximilian)",
+    "category": "Mobile Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBn4_58Zk0"
+  },
+  {
+    "course_id": "edureka-ai",
+    "title": "Artificial Intelligence Full Course",
+    "instructor": "Edureka",
+    "category": "Artificial Intelligence",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOGH6LqD8Lz9yZ"
+  },
+  {
+    "course_id": "edureka-aws",
+    "title": "AWS Certified Cloud Architect Course",
+    "instructor": "Edureka",
+    "category": "Cloud Computing",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOGH6LqD8Lz9yZ2"
+  },
+  {
+    "course_id": "edureka-devops",
+    "title": "DevOps Training Master Series",
+    "instructor": "Edureka",
+    "category": "DevOps",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOGH6LqD8Lz9yZ3"
+  },
+  {
+    "course_id": "simplilearn-data-science",
+    "title": "Data Science Full Course 2024",
+    "instructor": "Simplilearn",
+    "category": "Data Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLEiEAq2VkUULt_r6T_r8Q_A"
+  },
+  {
+    "course_id": "simplilearn-cybersecurity",
+    "title": "Ethical Hacking & Cyber Security",
+    "instructor": "Simplilearn",
+    "category": "Cybersecurity",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLEiEAq2VkUULt_r6T_r8Q_A2"
+  },
+  {
+    "course_id": "kurt-go",
+    "title": "Golang Programming for Beginners",
+    "instructor": "Tech with Tim",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_JyLhiMhciX1GVab"
+  },
+  {
+    "course_id": "tim-python-projects",
+    "title": "Python Beginner & Intermediate Projects",
+    "instructor": "Tech with Tim",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_JyLhiMhciX1GVab2"
+  },
+  {
+    "course_id": "tim-game-dev",
+    "title": "Pygame & Game Development in Python",
+    "instructor": "Tech with Tim",
+    "category": "Game Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_JyLhiMhciX1GVab3"
+  },
+  {
+    "course_id": "theprimeagen-rust",
+    "title": "Rust Programming & Algorithms",
+    "instructor": "ThePrimeagen",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLE4a9c_Zk68V5pM1R8b5T_b"
+  },
+  {
+    "course_id": "hussein-database",
+    "title": "Database Engineering Deep Dive",
+    "instructor": "Hussein Nasser",
+    "category": "Databases",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLQnljOFTzrRAi2M6xP15Yv2h"
+  },
+  {
+    "course_id": "hussein-networking",
+    "title": "Backend Networking & Protocols (HTTP/2, QUIC, gRPC)",
+    "instructor": "Hussein Nasser",
+    "category": "Networking",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLQnljOFTzrRAi2M6xP15Yv2h2"
+  },
+  {
+    "course_id": "benawad-fullstack",
+    "title": "Fullstack GraphQL & React Tutorial",
+    "instructor": "Ben Awad",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLN3n1USn4xlkxL4"
+  },
+  {
+    "course_id": "cleverprogrammer-js",
+    "title": "JavaScript Tutorial for Beginners",
+    "instructor": "Clever Programmer",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL1B1zZ0X_Z0"
+  },
+  {
+    "course_id": "cleverprogrammer-python",
+    "title": "Python Object Oriented Programming",
+    "instructor": "Clever Programmer",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL1B1zZ0X_Z02"
+  },
+  {
+    "course_id": "sentdex-python",
+    "title": "Python 3 Basics Tutorial Series",
+    "instructor": "sentdex",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdsw88edC-jUqsW"
+  },
+  {
+    "course_id": "sentdex-ai",
+    "title": "Neural Networks from Scratch in Python",
+    "instructor": "sentdex",
+    "category": "Artificial Intelligence",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw210673163fzXGH"
+  },
+  {
+    "course_id": "sentdex-finance",
+    "title": "Python for Finance & Algorithmic Trading",
+    "instructor": "sentdex",
+    "category": "Data Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQKA8BojBu"
+  },
+  {
+    "course_id": "krishna-ml",
+    "title": "Complete Machine Learning Roadmap",
+    "instructor": "Krish Naik",
+    "category": "Artificial Intelligence",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXG"
+  },
+  {
+    "course_id": "krishna-nlp",
+    "title": "Natural Language Processing (NLP) Master Series",
+    "instructor": "Krish Naik",
+    "category": "Artificial Intelligence",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXG2"
+  },
+  {
+    "course_id": "codebasics-python",
+    "title": "Python Tutorials for Beginners",
+    "instructor": "codebasics",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PEiEAq2VkUULt_r6T_r8Q_A"
+  },
+  {
+    "course_id": "codebasics-ds",
+    "title": "Data Structures & Algorithms in Python",
+    "instructor": "codebasics",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PEiEAq2VkUULt_r6T_r8Q_A2"
+  },
+  {
+    "course_id": "freecodecamp-arabic-html",
+    "title": "HTML & CSS Complete Arabic Course",
+    "instructor": "freeCodeCamp Arabic",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABcB3LgZ6oT40W0S6mS2C7"
+  },
+  {
+    "course_id": "freecodecamp-arabic-js",
+    "title": "JavaScript Fundamentals Arabic",
+    "instructor": "freeCodeCamp Arabic",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABcB3LgZ6oT40W0S6mS2C8"
+  },
+  {
+    "course_id": "freecodecamp-arabic-python",
+    "title": "Python Programming in Arabic",
+    "instructor": "freeCodeCamp Arabic",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLWKjhJtBOIABcB3LgZ6oT40W0S6mS2C9"
+  },
+  {
+    "course_id": "dev-ed-js",
+    "title": "JavaScript for Beginners",
+    "instructor": "Dev Ed",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLDyQMSWuxSHZ6Z5Z5"
+  },
+  {
+    "course_id": "dev-ed-react",
+    "title": "React for Beginners",
+    "instructor": "Dev Ed",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLDyQMSWuxSHZ6Z5Z6"
+  },
+  {
+    "course_id": "sonny-sangha-react",
+    "title": "Build Netflix & Airbnb Clones with React",
+    "instructor": "Sonny Sangha",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLf16CEwuY_UB"
+  },
+  {
+    "course_id": "sonny-sangha-next",
+    "title": "Build Modern Fullstack Apps with Next.js 14",
+    "instructor": "Sonny Sangha",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLf16CEwuY_UB2"
+  },
+  {
+    "course_id": "javascriptmastery-next",
+    "title": "Next.js Full Stack Mastery Course",
+    "instructor": "JavaScript Mastery",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR"
+  },
+  {
+    "course_id": "javascriptmastery-threejs",
+    "title": "3D Web Development with Three.js & React",
+    "instructor": "JavaScript Mastery",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqS"
+  },
+  {
+    "course_id": "codewithharry-python",
+    "title": "100 Days of Code: Python Course",
+    "instructor": "CodeWithHarry",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg"
+  },
+  {
+    "course_id": "codewithharry-web",
+    "title": "Web Development Master Course",
+    "instructor": "CodeWithHarry",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtXf3ajzg6c"
+  },
+  {
+    "course_id": "codewithharry-cpp",
+    "title": "C++ Tutorial for Beginners",
+    "instructor": "CodeWithHarry",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlkt-VxaKzQ7u_2m"
+  },
+  {
+    "course_id": "apnacollege-java",
+    "title": "Java & Data Structures Placement Course",
+    "instructor": "Apna College",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpJfdEwVT65nU"
+  },
+  {
+    "course_id": "apnacollege-c",
+    "title": "C Programming Language Full Course",
+    "instructor": "Apna College",
+    "category": "Computer Science",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpJfdEwVT65nV"
+  },
+  {
+    "course_id": "apnacollege-web",
+    "title": "Delta Full Stack Web Development",
+    "instructor": "Apna College",
+    "category": "Web Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpJfdEwVT65nW"
+  },
+  {
+    "course_id": "lapor-ai",
+    "title": "LangChain & LLM Application Development",
+    "instructor": "Dave Ebbelaar",
+    "category": "Artificial Intelligence",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2lll"
+  },
+  {
+    "course_id": "kurtis-golang",
+    "title": "Building Production Microservices in Go",
+    "instructor": "Anthony GG",
+    "category": "Backend Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL0xRBLFXX5Q7gR0s2"
+  },
+  {
+    "course_id": "dreamcode-swift",
+    "title": "iOS & Swift UI Complete App Development",
+    "instructor": "Kavsoft",
+    "category": "Mobile Development",
+    "platform": "YouTube",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL0xRBLFXX5Q7gR0s3"
+  }
+]

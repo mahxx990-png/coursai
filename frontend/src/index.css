@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #030712; /* slate-950 */
+    color: #e2e8f0; /* slate-200 */
+  }
+}
+
+@layer utilities {
+  .glass-panel {
+    background-color: rgba(11, 15, 25, 0.4);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    @apply backdrop-blur-xl border border-white/10;
+  }
+  
+  .glass-panel-heavy {
+    background-color: rgba(17, 24, 39, 0.6);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    @apply backdrop-blur-2xl border border-white/5;
+  }
+
+  .text-glow {
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+  }
+}
+
+/* Custom Scrollbar for Dark Theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #030712;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #6366f1;
+}
